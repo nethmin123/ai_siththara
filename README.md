@@ -1,7 +1,8 @@
 # ai_siththara
 Sri Lankan AI Art Generator
 
-![image](https://github.com/user-attachments/assets/7a925bac-53ae-4a23-aa03-6e9f6d63e2d1)
+![image](https://github.com/user-attachments/assets/ea50b991-a09b-4871-a93d-f5600a7a3c6a)
+
 
 
 යනු ලංකාවේ නිපදවුන නොමිළේ Ai Art නිර්මාණය කරගතහැකි මෘදුකාංගයකි.
