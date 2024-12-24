@@ -24,5 +24,9 @@ Classic Version (Ai siththara 3.0) - https://flowgpt.com/p/ai-siththara
 
 Ai Siththara Mini Version - https://tinyurl.com/aisiththaramini
 
+අප විසින් නිර්මාණය කරන ලද මෘදුකාංග භාවිතා කර සිදුකරනු ලබන කිසිම නීති විරෝධී කටයුත්තකට අප සහයෝගය නොදක්වන අතර ඒවායෙහි සම්පූර්ණ වගකීම මෘදුකාංගය භාවිතා කරන තැනැත්තා සතුය.
+ශ්‍රී ලංකාවේ හෝ වෙනත් ඕනෑම රටක රාජ්‍ය නීතින් ට විරුද්ධ කිසිවක් අපගේ මෘදුකාංග භාවිතයෙන් සිදුකිරීම අප අනුමත කරන්නේ නැත.
+- A.M.Nethmin Chamika Abeychandra - 
+
 මෙම මෘදුකාංගය පිළිබඳ වැඩි විස්තර දැනගැනීමට පිවිසෙන්න.
 https://ai-siththara.fandom.com/wiki/Ai_Siththara_Wiki
