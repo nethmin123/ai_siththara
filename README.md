@@ -1,7 +1,6 @@
 # ai_siththara
 Sri Lankan AI Art Generator
 
-![image](https://github.com/user-attachments/assets/ea50b991-a09b-4871-a93d-f5600a7a3c6a)
 
 
 
