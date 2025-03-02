@@ -12,7 +12,8 @@ Ai Siththara යනු ලංකාවේ නිපදවුන නොමිළ�
 
 මෙම මෘදුකාංගය භාවිතා කිරීම සඳහා පහත සබැඳි ඔස්සේ පිවිසෙන්න.
 
-![image](https://github.com/user-attachments/assets/9acecb13-5fb1-48f6-8025-2985edc56c78)
+![image](https://github.com/user-attachments/assets/2ad39cae-259f-488e-b5e4-b67b8ea88218)
+
 
 
 New Version (Ai siththara 5.0) - https://perchance.org/72t4ylrqdy
