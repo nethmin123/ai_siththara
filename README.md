@@ -16,7 +16,7 @@ Ai Siththara යනු ලංකාවේ නිපදවුන නොමිළ�
 
 
 
-New Version (Ai siththara 5.0) - https://perchance.org/72t4ylrqdy
+New Version (Ai siththara 6.0) - https://perchance.org/72t4ylrqdy
 
 ![image](https://github.com/user-attachments/assets/9d501a17-b79b-4d00-ac79-f595c1780b76)
 
