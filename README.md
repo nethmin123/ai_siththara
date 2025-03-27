@@ -11,7 +11,7 @@ Ai Siththara යනු ලංකාවේ නිපදවුන නොමිළ�
 
 මෙම මෘදුකාංගය භාවිතා කිරීම සඳහා පහත සබැඳි ඔස්සේ පිවිසෙන්න.
 
-AI Siththara 6 is an AI-powered art generator specifically designed for Sri Lankans. Developed by Nethmin Chamika, this tool allows users to create unique AI-generated images effortlessly. It is a modified version of the Perchance Image Generator, originally created by Perchance.org, with enhancements tailored for a localized experience. AI Siththara brings the power of AI-generated art to Sri Lanka, making creative expression more accessible to artists, designers, and enthusiasts.
+AI Siththara 6 is an AI-powered art generator specifically designed for Sri Lankans. Made by Nethmin Chamika, this tool allows users to create unique AI-generated images effortlessly. It is a modified version of the Perchance Image Generator, originally created by Perchance.org, with enhancements tailored for a localized experience. AI Siththara brings the power of AI-generated art to Sri Lanka, making creative expression more accessible to artists, designers, and enthusiasts.
 
 ![image](https://github.com/user-attachments/assets/2ad39cae-259f-488e-b5e4-b67b8ea88218)
 
