@@ -20,11 +20,6 @@ AI Siththara 6 is an AI-powered art generator specifically designed for Sri Lank
 New Version (Ai siththara 6.0) - https://perchance.org/72t4ylrqdy
 
 
-මෙම මෘදුකාංගය පිළිබඳ වැඩි විස්තර දැනගැනීමට පිවිසෙන්න.
-https://ai-siththara.fandom.com/wiki/Ai_Siththara_Wiki
 
-අප විසින් නිර්මාණය කරන ලද මෘදුකාංග භාවිතා කර සිදුකරනු ලබන කිසිම නීති විරෝධී කටයුත්තකට අප සහයෝගය නොදක්වන අතර ඒවායෙහි සම්පූර්ණ වගකීම මෘදුකාංගය භාවිතා කරන තැනැත්තා සතුය.
-ශ්‍රී ලංකාවේ හෝ වෙනත් ඕනෑම රටක රාජ්‍ය නීතින් ට විරුද්ධ කිසිවක් අපගේ මෘදුකාංග භාවිතයෙන් සිදුකිරීම අප අනුමත කරන්නේ නැත.
-- A.M.Nethmin Chamika Abeychandra - 
 
 
